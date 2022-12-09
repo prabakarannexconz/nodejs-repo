@@ -1,0 +1,27 @@
+{
+  "name": "newexpress",
+  "version": "1.0.0",
+  "description": "new project express",
+  "main": "index.js",
+  "scripts": {
+    "test": "all the text controll",
+    "start": "nodemon index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitignore"
+  },
+  "keywords": [
+    "express",
+    "my",
+    "first"
+  ],
+  "author": "prabakaran",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.8.0",
+    "morgan": "^1.10.0",
+    "uuid": "^9.0.0"
+  }
+}
